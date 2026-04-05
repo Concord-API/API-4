@@ -1,6 +1,9 @@
 # API - 4º Semestre BD
 
 # Trivio – Gerenciamento de manutenções
+<p align="center">
+    <img src="docs/img/trivio branco.svg" alt="Logo Trivio" width="300">
+</p>
 
 ## Descrição do Desafio
 
@@ -24,7 +27,17 @@ O objetivo do backlog é organizar, priorizar e tornar visível o trabalho que d
 
 ---
 
-### Tecnologias utilizadas
+## Cronograma de Sprints
+
+| Sprint          |    Período    | Documentação                                     |
+| --------------- | :-----------: | ------------------------------------------------ |
+|  **SPRINT 1** | 16/03 - 05/04 | [Sprint 1 Docs](./docs/sprint%201/) |
+|  **SPRINT 2** | 13/04 - 03/05 | [Sprint 2 Docs](./docs/sprint%202/) |
+|  **SPRINT 3** | 11/05 - 31/05 | [Sprint 3 Docs](./docs/sprint%203/) |
+
+---
+
+## Tecnologias utilizadas
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,html,css,vue,git,github,docker,spring" alt="Java, JavaScript, HTML, CSS, Vue.js, Git, GitHub, Docker, Spring e VS Code" />
