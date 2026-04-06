@@ -2,7 +2,7 @@
 
   - **main**: Branch principal e estável do projeto. Recebe merges apenas ao final de cada sprint, após revisão e aprovação.  
   - **sprintX** (ex: sprint1, sprint2, sprint3): Cada sprint possui sua própria branch base, onde são integradas todas as funcionalidades desenvolvidas durante aquele ciclo.  
-  - **task-número/nome-da-task-com-traço-se-tiver-espaco**: Para cada nova funcionalidade ou correção, é criada uma branch específica a partir da branch da sprint em andamento. Essa Branch é criada a partir do Jira.
+  - **taskpai-subtask-nome-da-task-com-traço-se-tiver-espaco**: Para cada nova funcionalidade ou correção, é criada uma branch específica a partir da branch da sprint em andamento. Essa Branch é criada a partir do Jira.
   Exemplo: `API-35-0.1-Implementar-documentação-API`
 
   Após a conclusão e revisão da funcionalidade, é feito um *Pull Request (PR)* para a branch da sprint correspondente.  
