@@ -2,52 +2,46 @@
 
 # Trivio – Gerenciamento de manutenções
 <p align="center">
-    <img src="docs/img/trivio branco.svg" alt="Logo Trivio" width="300">
+    <img src="/docs/img/trivio branco.svg" alt="Logo Trivio" width="300">
 </p>
 
-## Descrição do Desafio
+# Documentação - Sprint 1
 
-O projeto consiste no desenvolvimento de uma plataforma para gerenciamento de manutenções em equipamentos distribuídos globalmente, pertencentes a contratos de diferentes empresas. A plataforma permitirá registrar e acompanhar equipamentos, planejar manutenções periódicas e organizar intervenções técnicas considerando fatores como localização, duração estimada e prioridade das atividades, facilitando o planejamento das equipes responsáveis e o acompanhamento das manutenções realizadas.
+## Desafio
 
----
+Implementar uma plataforma para gerenciar manutenções de equipamentos distribuídos globalmente, vinculados a contratos de diferentes empresas. A solução permitirá registrar equipamentos, acompanhar horas de uso e planejar intervenções técnicas considerando fatores como localização, duração estimada e prioridade das manutenções.
 
-## Product Backlog
-O objetivo do backlog é organizar, priorizar e tornar visível o trabalho que deve ser feito, garantindo que a equipe foque no que gera mais valor para o cliente e para o produto.
+## User Stories
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 | --- | --- | --- | --- | --- |
 | 1 | Alta | **Como Administrador**, quero cadastrar e gerenciar técnicos do sistema **para garantir que as manutenções dos clientes sejam atendidas de forma adequada**. | 8 | Sprint 1 |
 | 2 | Alta | **Como Administrador**, quero cadastrar e gerenciar equipamentos, incluindo localização e competências necessárias **para delegar corretamente as manutenções**. | 8 | Sprint 1 |
 | 3 | Alta | **Como Tech Lead**, quero gerenciar os requisitos que consigo cumprir **para selecionar corretamente as manutenções**. | 3 | Sprint 1 |
-| 4 | Alta | **Como Técnico**, quero visualizar as localizações e datas das minhas manutenções **para organizar minhas tarefas sem conflitos.**. | 5 | Sprint 2 |
-| 5 | Média | **Como Tech Lead**, quero visualizar e distribuir facilmente as manutenções pendentes **para melhorar o planejamento e a eficiência da equipe**. | 8 | Sprint 2 |
-| 6 | Média | **Como Tech Lead**, quero visualizar as manutenções em mapa **para estimar as viagens dos Técnicos**. | 3 | Sprint 2 |
-| 7 | Média | **Como Administrador**, quero que o sistema esteja disponível online para todos os usuários **para que possam acessar a aplicação de forma contínua e confiável**. | 5 | Sprint 2 |
-| 8 | Baixa | **Como Supervisor da empresa cliente**, quero ser informado com antecedência sobre os técnicos que realizarão a manutenção **para autorizar a entrada e providenciar os acessos necessários**. | 3 | Sprint 3 |
 
----
+## DoR - Definition of Ready 
 
-## Cronograma de Sprints
+|             Critério             | Validação                                                                                         |
+| :------------------------------: | ------------------------------------------------------------------------------------------------- |
+|       Está claramente descrita, com valor de negócio identificado.       | ✅ |
+| Possui critérios de aceitação definidos e compreendidos pelo time. | ✅ |
+| Foi priorizada pelo Product Owner. | ✅ |
+|          Possui estimativa de esforço realizada pelo time de desenvolvimento.           | ✅ |
+|    Dependências externas foram identificadas e não bloqueiam o início da implementação.    | ✅ |
+|           Protótipo, wireframe ou referências visuais estão disponíveis (quando aplicável).           | ✅ |
 
-| Sprint | Período | Documentação | Video da entrega |
-| ------- | :-----: | ------------ | ---------------- |
-| **SPRINT 1** | 16/03 - 05/04 | [Sprint 1 Docs](./docs/sprint%201/) | [Sprint 1 Video](https://youtu.be/s0zt_o8KqMw) |
-| **SPRINT 2** | 13/04 - 03/05 | [Sprint 2 Docs](./docs/sprint%202/) |  |
-| **SPRINT 3** | 11/05 - 31/05 | [Sprint 3 Docs](./docs/sprint%203/) |  |
+## DoD - Definition of Done 
 
----
+|                 Critério                 | Validação                                                                            |
+| :--------------------------------------: | ------------------------------------------------------------------------------------ |
+|    Funcionalidade implementada atende a todos os critérios de aceitação.     | ✅ |
+|       Código desenvolvido foi revisado por pelo menos um membro da equipe.         | ✅ |
+|             Testes unitários e funcionais realizados e aprovados.             | ✅ |
+|     Funcionalidade integrada ao repositório principal sem conflitos.     | ✅ |
+|  Documentação do sistema foi atualizada.   | ✅ |
+| Interface segue o padrão visual definido para o projeto. | ✅ |
+|             A entrega foi demonstrada e validada pelo Product Owner na review da sprint.            | ✅ |
 
-## Tecnologias utilizadas
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,js,html,css,vue,git,github,docker,spring" alt="Java, JavaScript, HTML, CSS, Vue.js, Git, GitHub, Docker, Spring e VS Code" />
-  </a>
-  <a href="https://www.oracle.com/database/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle Database" height="48" />
-  </a>
-</p>
-
----
 
 ## Equipe
 
