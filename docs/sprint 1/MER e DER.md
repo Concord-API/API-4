@@ -1,6 +1,3 @@
----
-id: d0e9e8de-feeb-4da5-8cae-83c276d297b5
----
 # MER e DER — Banco de Dados Trivio
 
 ## MER — Modelo Entidade-Relacionamento
