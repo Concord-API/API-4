@@ -40,7 +40,7 @@ O objetivo do backlog é organizar, priorizar e tornar visível o trabalho que d
 ## Tecnologias utilizadas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,vue,git,github,docker,spring" alt="Java, JavaScript, HTML, CSS, Vue.js, Git, GitHub, Docker, Spring e VS Code" />
+    <img src="https://skillicons.dev/icons?i=java,ts,js,html,css,vue,git,github,docker,spring" alt="Java, JavaScript, HTML, CSS, Vue.js, Git, GitHub, Docker, Spring e VS Code" />
   </a>
   <a href="https://www.oracle.com/database/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle Database" height="48" />
@@ -49,7 +49,7 @@ O objetivo do backlog é organizar, priorizar e tornar visível o trabalho que d
 
 ---
 
-### Equipe
+## Equipe
 
 <div align="center">
   <table>
