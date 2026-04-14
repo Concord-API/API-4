@@ -19,10 +19,10 @@ O objetivo do backlog é organizar, priorizar e tornar visível o trabalho que d
 | 1 | Alta | **Como Administrador**, quero cadastrar e gerenciar técnicos do sistema **para garantir que as manutenções dos clientes sejam atendidas de forma adequada**. | 8 | Sprint 1 |
 | 2 | Alta | **Como Administrador**, quero cadastrar e gerenciar equipamentos, incluindo localização e competências necessárias **para delegar corretamente as manutenções**. | 8 | Sprint 1 |
 | 3 | Alta | **Como Tech Lead**, quero gerenciar os requisitos que consigo cumprir **para selecionar corretamente as manutenções**. | 3 | Sprint 1 |
-| 4 | Alta | **Como Técnico**, quero visualizar as localizações e datas das minhas manutenções **para organizar minhas tarefas sem conflitos.**. | 5 | Sprint 2 |
-| 5 | Média | **Como Tech Lead**, quero visualizar e distribuir facilmente as manutenções pendentes **para melhorar o planejamento e a eficiência da equipe**. | 8 | Sprint 2 |
-| 6 | Média | **Como Tech Lead**, quero visualizar as manutenções em mapa **para estimar as viagens dos Técnicos**. | 3 | Sprint 2 |
-| 7 | Média | **Como Administrador**, quero que o sistema esteja disponível online para todos os usuários **para que possam acessar a aplicação de forma contínua e confiável**. | 5 | Sprint 2 |
+| 4 | Alta | **Como Técnico**, quero ter um acesso pessoal **para olhar com exclusividade minhas obrigação**. | 5 | Sprint 2 |
+| 5 | Média | **Como Administrador**, quero que o sistema esteja disponível online para todos os usuários **para que possam acessar a aplicação de forma contínua e confiável.** | 3 | Sprint 2 |
+| 6 | Alta | **Como Tech Lead**, quero que as manutenções recorrentes sejam geradas automaticamente **para agilizar o processo de alocação**.| 8 | Sprint 2 |
+| 7 | Baixa | **Como Tech Lead**, quero visualizar as manutenções em mapa **para estimar as viagens dos Técnicos**. | 8 | Sprint 2 |
 | 8 | Baixa | **Como Supervisor da empresa cliente**, quero ser informado com antecedência sobre os técnicos que realizarão a manutenção **para autorizar a entrada e providenciar os acessos necessários**. | 3 | Sprint 3 |
 
 ---
