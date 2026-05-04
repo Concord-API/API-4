@@ -33,7 +33,15 @@ git submodule update --init --recursive
 
 ### 3. Configuração do Backend
 
-**1° Renomeie o arquivo `.env.example` para `.env` e configure:**
+**1° Configurar variáveis de ambiente**
+
+No backend, o arquivo de exemplo está localizado em:
+
+```bash
+api4-backend/.devcontainer/.env.example
+```
+
+Renomeie o arquivo `.env.example` para `.env` e configure:
 
 ```
 # Oracle
@@ -76,6 +84,12 @@ cd trivio
 npm install
 ```
 Após, renomear `.env.example` para `.env` e inserir o caminho da api
+
+O arquivo .env.example do frontend está em:
+
+```bash
+api4-frontend/trivio/.env.example
+```
 
 ```bash
 VITE_API_URL=http://localhost:8080
