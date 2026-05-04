@@ -19,10 +19,10 @@ O objetivo do backlog é organizar, priorizar e tornar visível o trabalho que d
 | 1 | Alta | **Como Administrador**, quero cadastrar e gerenciar técnicos do sistema **para garantir que as manutenções dos clientes sejam atendidas de forma adequada**. | 8 | Sprint 1 |
 | 2 | Alta | **Como Administrador**, quero cadastrar e gerenciar equipamentos, incluindo localização e competências necessárias **para delegar corretamente as manutenções**. | 8 | Sprint 1 |
 | 3 | Alta | **Como Tech Lead**, quero gerenciar os requisitos que consigo cumprir **para selecionar corretamente as manutenções**. | 3 | Sprint 1 |
-| 4 | Alta | **Como Técnico**, quero visualizar as localizações e datas das minhas manutenções **para organizar minhas tarefas sem conflitos.**. | 5 | Sprint 2 |
-| 5 | Média | **Como Tech Lead**, quero visualizar e distribuir facilmente as manutenções pendentes **para melhorar o planejamento e a eficiência da equipe**. | 8 | Sprint 2 |
-| 6 | Média | **Como Tech Lead**, quero visualizar as manutenções em mapa **para estimar as viagens dos Técnicos**. | 3 | Sprint 2 |
-| 7 | Média | **Como Administrador**, quero que o sistema esteja disponível online para todos os usuários **para que possam acessar a aplicação de forma contínua e confiável**. | 5 | Sprint 2 |
+| 4 | Alta | **Como Técnico**, quero ter um acesso pessoal **para olhar com exclusividade minhas obrigação**. | 5 | Sprint 2 |
+| 5 | Média | **Como Administrador**, quero que o sistema esteja disponível online para todos os usuários **para que possam acessar a aplicação de forma contínua e confiável.** | 3 | Sprint 2 |
+| 6 | Alta | **Como Tech Lead**, quero que as manutenções recorrentes sejam geradas automaticamente **para agilizar o processo de alocação**.| 8 | Sprint 2 |
+| 7 | Baixa | **Como Tech Lead**, quero visualizar as manutenções em mapa **para estimar as viagens dos Técnicos**. | 8 | Sprint 2 |
 | 8 | Baixa | **Como Supervisor da empresa cliente**, quero ser informado com antecedência sobre os técnicos que realizarão a manutenção **para autorizar a entrada e providenciar os acessos necessários**. | 3 | Sprint 3 |
 
 ---
@@ -32,7 +32,7 @@ O objetivo do backlog é organizar, priorizar e tornar visível o trabalho que d
 | Sprint | Período | Documentação | Video da entrega |
 | ------- | :-----: | ------------ | ---------------- |
 | **SPRINT 1** | 16/03 - 05/04 | [Sprint 1 Docs](./docs/sprint%201/) | [Sprint 1 Video](https://youtu.be/s0zt_o8KqMw) |
-| **SPRINT 2** | 13/04 - 03/05 | [Sprint 2 Docs](./docs/sprint%202/) |  |
+| **SPRINT 2** | 13/04 - 03/05 | [Sprint 2 Docs](./docs/sprint%202/) | [Sprint 2 Video](https://youtu.be/L0b9S5VHsp4) |
 | **SPRINT 3** | 11/05 - 31/05 | [Sprint 3 Docs](./docs/sprint%203/) |  |
 
 ---
@@ -46,6 +46,18 @@ O objetivo do backlog é organizar, priorizar e tornar visível o trabalho que d
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle Database" height="48" />
   </a>
 </p>
+
+---
+
+## Manual de Usuário
+
+[Acesse o Manual de Usuário](./docs/Manual%20de%20Usu%C3%A1rio%20e%20Cat%C3%A1logo%20de%20Funcionalidades%20-%20TRIVIO.pdf)
+
+---
+
+## Guia de Instalação
+
+[Acesse o Guia de Instalação](./docs/GuiaInstalacao.md)
 
 ---
 
