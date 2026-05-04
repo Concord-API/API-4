@@ -22,10 +22,27 @@ Implementar uma plataforma para gerenciar manutenções de equipamentos distribu
 
 ## DoR - Definition of Ready 
 
+|                 Critério                  | Descrição                                                                                          |
+| :--------------------------------------: | -------------------------------------------------------------------------------------------------- |
+|        Clareza e Valor de Negócio        | A User Story está claramente descrita e possui valor de negócio identificado.                     |
+|  Critérios de Aceitação Definidos        | A história possui critérios de aceitação definidos e compreendidos pelo time.                     |
+|        Priorização pelo Product Owner    | A User Story foi priorizada pelo Product Owner.                                                    |
+|        Estimativa de Esforço             | A história possui estimativa de esforço realizada pelo time de desenvolvimento.                   |
+|     Dependências Identificadas           | Dependências externas foram identificadas e não impedem o início da implementação.                |
+| Referências Visuais (quando aplicável)   | Protótipos, wireframes ou materiais de apoio estão disponíveis, quando necessário.                |
 
 
 ## DoD - Definition of Done 
 
+|                 Critério                  | Descrição                                                                                        |
+| :--------------------------------------: | ------------------------------------------------------------------------------------------------- |
+|  Atendimento aos Critérios de Aceitação  | A funcionalidade implementada cumpre integralmente todos os critérios de aceitação definidos.     |
+|          Revisão de Código               | O código foi revisado por pelo menos um membro da equipe.                                         |
+|        Testes Realizados e Aprovados     | Testes unitários e funcionais foram executados e aprovados com sucesso.                           |
+|     Integração ao Repositório Principal  | A funcionalidade foi integrada ao repositório principal sem conflitos.                            |
+|        Documentação Atualizada           | A documentação do sistema foi atualizada (README, guias de uso ou evidências visuais).            |
+|     Padrão Visual da Interface           | A interface segue o padrão visual definido para o projeto.                                        |
+|     Validação pelo Product Owner         | A equipe esta esperando o Sprint Review                                                           |
 
 
 ## Equipe
