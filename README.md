@@ -49,6 +49,18 @@ O objetivo do backlog é organizar, priorizar e tornar visível o trabalho que d
 
 ---
 
+## Manual de Usuário
+
+[Acesse o Manual de Usuário](./docs/Manual%20de%20Usu%C3%A1rio%20e%20Cat%C3%A1logo%20de%20Funcionalidades%20-%20TRIVIO.pdf)
+
+---
+
+## Guia de Instalação
+
+[Acesse o Guia de Instalação](./docs/GuiaInstalacao.md)
+
+---
+
 ## Equipe
 
 <div align="center">
