@@ -16,8 +16,8 @@ Implementar uma plataforma para gerenciar manutenções de equipamentos distribu
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 | --- | --- | --- | --- | --- |
 | 4 | Alta | **Como Técnico**, quero ter um acesso pessoal **para olhar com exclusividade minhas obrigação**. | 5 | Sprint 2 |
-| 5 | Média | **Como Administrador**, quero que o sistema esteja disponível online para todos os usuários **para que possam acessar a aplicação de forma contínua e confiável.** | 3 | Sprint 2 |
-| 6 | Alta | **Como Tech Lead**, quero que as manutenções recorrentes sejam geradas automaticamente **para agilizar o processo de alocação**.| 8 | Sprint 2 |
+| 5 | Alta | **Como Tech Lead**, quero que as manutenções recorrentes sejam geradas automaticamente **para agilizar o processo de alocação**.| 8 | Sprint 2 |
+| 6 | Média | **Como Administrador**, quero que o sistema esteja disponível online para todos os usuários **para que possam acessar a aplicação de forma contínua e confiável.** | 3 | Sprint 2 |
 | 7 | Baixa | **Como Tech Lead**, quero visualizar as manutenções em mapa **para estimar as viagens dos Técnicos**. | 8 | Sprint 2 |
 
 ## DoR - Definition of Ready 
